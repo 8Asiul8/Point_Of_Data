@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 307 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-7075.62,-2832.56)">
+        <g transform="matrix(1,0,0,1,-139.23,141.732)">
+            <g transform="matrix(0.183872,0,0,0.183872,6716.54,2562.61)">
+                <g>
+                    <g>
+                        <g transform="matrix(1,0,0,1,2692.91,425.197)">
+                            <circle cx="826.772" cy="401.575" r="118.11" style="fill:rgb(20,20,20);fill-opacity:0.2;stroke:rgb(20,20,20);stroke-width:22.66px;"/>
+                        </g>
+                        <g transform="matrix(0.4,0,0,0.4,3188.98,666.142)">
+                            <circle cx="826.772" cy="401.575" r="118.11" style="fill:rgb(20,20,20);"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,832.767,-67.8995)">
+                <g transform="matrix(50,0,0,50,6493.75,2801.28)">
+                </g>
+                <text x="6377.95px" y="2801.28px" style="font-family:'Roboto-Regular', 'Roboto';font-size:50px;fill:rgb(20,20,20);">P<tspan x="6409.18px " y="2801.28px ">o</tspan>int</text>
+            </g>
+            <g transform="matrix(1,0,0,1,776.767,-91.5216)">
+                <g transform="matrix(50,0,0,50,6631.53,2824.9)">
+                </g>
+                <text x="6614.17px" y="2824.9px" style="font-family:'Roboto-Regular', 'Roboto';font-size:50px;fill:rgb(20,20,20);">f</text>
+            </g>
+            <g transform="matrix(1,0,0,1,617.767,-115.144)">
+                <g transform="matrix(50,0,0,50,6906.67,2848.52)">
+                </g>
+                <text x="6803.15px" y="2848.52px" style="font-family:'Roboto-Regular', 'Roboto';font-size:50px;fill:rgb(20,20,20);">Data</text>
+            </g>
+        </g>
+    </g>
+</svg>

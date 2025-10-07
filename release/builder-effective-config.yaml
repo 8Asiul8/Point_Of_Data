@@ -1,0 +1,23 @@
+directories:
+  output: release
+  buildResources: assets
+appId: com.pointofdata.app
+productName: Point of Data
+files:
+  - filter:
+      - dist/**/*
+      - electron/**/*
+win:
+  icon: assets/icon.ico
+  target:
+    - nsis
+  executableName: PointOfData
+  legalTrademarks: Point of Data Project
+nsis:
+  artifactName: ${productName} Setup ${version}.${ext}
+  oneClick: true
+  perMachine: false
+  installerIcon: assets/icon.ico
+  uninstallerIcon: assets/icon.ico
+  shortcutName: Point of Data
+electronVersion: 37.3.1

@@ -1,0 +1,36 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  --background-color: #ffffff;
+  --elements-color: #141414;
+  --interactive-indicator: #cccccc;
+  --interaction-feedback: #999999;
+  --brighPoints: 35%;
+
+  background-color: var(--background-color);
+  color: var(--elements-color);
+
+  --section-title-size: 14pt;
+  --lable-size: 10pt;
+  --text-size: 12px;
+  --bigger-tittle-size: 20pt;
+  --mini-lable-size: 7pt;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.dark {
+  --background-color: #141414;
+  --elements-color: #ffffff;
+  --interactive-indicator: #474747;
+  --interaction-feedback: #7a7a7a;
+  --brighPoints: 65%;
+
+  background-color: var(--background-color);
+  color: var(--elements-color);
+}
